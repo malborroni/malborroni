@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
+### Aloha! Welcome to my GitHub page! 🪐
+<!-- 
 **malborroni/malborroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Alessandro and I am a Data Science student based in Milan. 📍<br>
+Here you can find some of the projects I worked on while studying in the extraordinary [Università degli Studi di Milano-Bicocca](https://www.unimib.it/)!
+
+&nbsp;&nbsp;• Main interests: _Computer Vision_, _Deep Learning_ and _Machine Learning_;<br>
+&nbsp;&nbsp;• Background: Bachelor's Degree in _Business Economics_.
+
+Want to know more about me? Just check out my [personal site](https://malborroni.github.io/)! 💻<br>
+Feel free to contact me!
