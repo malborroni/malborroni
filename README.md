@@ -20,3 +20,8 @@ Here you can find some of the projects I worked on while studying in the extraor
 
 Want to know more about me? Just check out my [personal site](https://malborroni.github.io/)! 💻<br>
 Feel free to contact me!
+
+
+
+[![](https://github-readme-stats.vercel.app/api?username=malborroni&show_icons=true&include_all_commits=true&theme=midnight-purple)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=malborroni&theme=midnight-purple)]()
