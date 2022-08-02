@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-My name is Alessandro and I am a Data Science student based in Milan. 📍<br>
+My name is Alessandro and I am a Data Scientist based in Milan. 📍<br>
 Here you can find some of the projects I worked on while studying in the extraordinary [Università degli Studi di Milano-Bicocca](https://www.unimib.it/)!
 
 &nbsp;&nbsp;• Main interests: _Computer Vision_, _Deep Learning_ and _Machine Learning_;<br>
